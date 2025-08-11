@@ -1,6 +1,6 @@
 Virtual Office Attendance System
 Overview
-The Virtual Office Attendance System is a 2D interactive desktop application built using the LÖVE 2D framework (Lua-based) that simulates a virtual office environment for tracking employee attendance. The application displays a top-down view of an office with a grid of desks (one for HR and eight for staff members). Users can click a desk to trigger an animated character to enter or exit, marking attendance with timestamps. The system records entry and exit times, displays them above desks, and persists data using local storage. A summary table and reset functionality are included for ease of use.
+The Virtual Office Attendance System is a 2D interactive desktop application  that simulates a virtual office environment for tracking employee attendance. The application displays a top-down view of an office with a grid of desks (one for HR and eight for staff members). Users can click a desk to trigger an animated character to enter or exit, marking attendance with timestamps. The system records entry and exit times, displays them above desks, and persists data using local storage. A summary table and reset functionality are included for ease of use.
 Features
 
 Interactive Office Layout: A 3x3 grid of desks (HR, Staff 1–8) with clickable rectangular desks and chair icons.
