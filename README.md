@@ -12,3 +12,8 @@ Reset Functionality: A reset button clears all attendance data and resets the sc
 Responsive Design: Adapts to different screen sizes for desktop use
 Optional Audio: Subtle sound effects for walking and sitting (if implemented).
 Visuals: Simple office background (walls, doors, desks) using sprites or basic shapes.
+
+
+CHECK OUT :
+https://cabin-clock-in.lovable.app/
+
